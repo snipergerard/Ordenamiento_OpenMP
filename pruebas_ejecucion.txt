@@ -1,0 +1,182 @@
+
+=== MENU DE ORDENAMIENTO OMP ===
+1. Llenar arreglo peque (100 elementos - Imprime consola)
+2. Llenar arreglo intermedio (50,000 elementos - IDEAL PARA BURBUJA)
+3. Llenar arreglo masivo (10,000,000 elementos - SOLO QUICK SORT)
+4. Burbuja Secuencial
+5. Burbuja Paralela (Par-Impar)
+6. Quick Sort Secuencial
+7. Quick Sort Paralelo (Tasks)
+8. Mostrar Speedups / Comparativa
+9. Salir del programa
+Seleccione una opcion: 2
+
+-> Arreglo de 50000 elementos creado en 0.003000 segundos.
+
+=== MENU DE ORDENAMIENTO OMP ===
+1. Llenar arreglo peque (100 elementos - Imprime consola)
+2. Llenar arreglo intermedio (50,000 elementos - IDEAL PARA BURBUJA)
+3. Llenar arreglo masivo (10,000,000 elementos - SOLO QUICK SORT)
+4. Burbuja Secuencial
+5. Burbuja Paralela (Par-Impar)
+6. Quick Sort Secuencial
+7. Quick Sort Paralelo (Tasks)
+8. Mostrar Speedups / Comparativa
+9. Salir del programa
+Seleccione una opcion: 4
+
+-> Burbuja Secuencial finalizada en 3.908000 s.
+
+=== MENU DE ORDENAMIENTO OMP ===
+1. Llenar arreglo peque (100 elementos - Imprime consola)
+2. Llenar arreglo intermedio (50,000 elementos - IDEAL PARA BURBUJA)
+3. Llenar arreglo masivo (10,000,000 elementos - SOLO QUICK SORT)
+4. Burbuja Secuencial
+5. Burbuja Paralela (Par-Impar)
+6. Quick Sort Secuencial
+7. Quick Sort Paralelo (Tasks)
+8. Mostrar Speedups / Comparativa
+9. Salir del programa
+Seleccione una opcion: 5
+
+-> Burbuja Paralela finalizada en 9.012000 s.
+
+=== MENU DE ORDENAMIENTO OMP ===
+1. Llenar arreglo peque (100 elementos - Imprime consola)
+2. Llenar arreglo intermedio (50,000 elementos - IDEAL PARA BURBUJA)
+3. Llenar arreglo masivo (10,000,000 elementos - SOLO QUICK SORT)
+4. Burbuja Secuencial
+5. Burbuja Paralela (Par-Impar)
+6. Quick Sort Secuencial
+7. Quick Sort Paralelo (Tasks)
+8. Mostrar Speedups / Comparativa
+9. Salir del programa
+Seleccione una opcion: 6
+
+-> Quick Sort Secuencial finalizado en 0.006000 s.
+
+=== MENU DE ORDENAMIENTO OMP ===
+1. Llenar arreglo peque (100 elementos - Imprime consola)
+2. Llenar arreglo intermedio (50,000 elementos - IDEAL PARA BURBUJA)
+3. Llenar arreglo masivo (10,000,000 elementos - SOLO QUICK SORT)
+4. Burbuja Secuencial
+5. Burbuja Paralela (Par-Impar)
+6. Quick Sort Secuencial
+7. Quick Sort Paralelo (Tasks)
+8. Mostrar Speedups / Comparativa
+9. Salir del programa
+Seleccione una opcion: 7
+
+-> Quick Sort Paralelo finalizado en 0.002000 s.
+
+=== MENU DE ORDENAMIENTO OMP ===
+1. Llenar arreglo peque (100 elementos - Imprime consola)
+2. Llenar arreglo intermedio (50,000 elementos - IDEAL PARA BURBUJA)
+3. Llenar arreglo masivo (10,000,000 elementos - SOLO QUICK SORT)
+4. Burbuja Secuencial
+5. Burbuja Paralela (Par-Impar)
+6. Quick Sort Secuencial
+7. Quick Sort Paralelo (Tasks)
+8. Mostrar Speedups / Comparativa
+9. Salir del programa
+Seleccione una opcion: 8
+
+=== COMPARATIVA DE RENDIMIENTO ===
+Speedup Burbuja (Arr: 50000): 0.433644x
+Speedup Quick Sort (Arr: 50000): 3.000238x
+
+=== MENU DE ORDENAMIENTO OMP ===
+1. Llenar arreglo peque (100 elementos - Imprime consola)
+2. Llenar arreglo intermedio (50,000 elementos - IDEAL PARA BURBUJA)
+3. Llenar arreglo masivo (10,000,000 elementos - SOLO QUICK SORT)
+4. Burbuja Secuencial
+5. Burbuja Paralela (Par-Impar)
+6. Quick Sort Secuencial
+7. Quick Sort Paralelo (Tasks)
+8. Mostrar Speedups / Comparativa
+9. Salir del programa
+Seleccione una opcion: 3
+
+-> Arreglo de 10000000 elementos creado en 0.012000 segundos.
+
+=== MENU DE ORDENAMIENTO OMP ===
+1. Llenar arreglo peque (100 elementos - Imprime consola)
+2. Llenar arreglo intermedio (50,000 elementos - IDEAL PARA BURBUJA)
+3. Llenar arreglo masivo (10,000,000 elementos - SOLO QUICK SORT)
+4. Burbuja Secuencial
+5. Burbuja Paralela (Par-Impar)
+6. Quick Sort Secuencial
+7. Quick Sort Paralelo (Tasks)
+8. Mostrar Speedups / Comparativa
+9. Salir del programa
+Seleccione una opcion: 4
+íALERTA! La Burbuja tardaria dias con 10000000 elementos. Usa la opcion 2 para evaluar Burbuja.
+
+=== MENU DE ORDENAMIENTO OMP ===
+1. Llenar arreglo peque (100 elementos - Imprime consola)
+2. Llenar arreglo intermedio (50,000 elementos - IDEAL PARA BURBUJA)
+3. Llenar arreglo masivo (10,000,000 elementos - SOLO QUICK SORT)
+4. Burbuja Secuencial
+5. Burbuja Paralela (Par-Impar)
+6. Quick Sort Secuencial
+7. Quick Sort Paralelo (Tasks)
+8. Mostrar Speedups / Comparativa
+9. Salir del programa
+Seleccione una opcion: 5
+íALERTA! La Burbuja tardaria dias con 10000000 elementos. Usa la opcion 2 para evaluar Burbuja.
+
+=== MENU DE ORDENAMIENTO OMP ===
+1. Llenar arreglo peque (100 elementos - Imprime consola)
+2. Llenar arreglo intermedio (50,000 elementos - IDEAL PARA BURBUJA)
+3. Llenar arreglo masivo (10,000,000 elementos - SOLO QUICK SORT)
+4. Burbuja Secuencial
+5. Burbuja Paralela (Par-Impar)
+6. Quick Sort Secuencial
+7. Quick Sort Paralelo (Tasks)
+8. Mostrar Speedups / Comparativa
+9. Salir del programa
+Seleccione una opcion: 6
+
+-> Quick Sort Secuencial finalizado en 1.067000 s.
+
+=== MENU DE ORDENAMIENTO OMP ===
+1. Llenar arreglo peque (100 elementos - Imprime consola)
+2. Llenar arreglo intermedio (50,000 elementos - IDEAL PARA BURBUJA)
+3. Llenar arreglo masivo (10,000,000 elementos - SOLO QUICK SORT)
+4. Burbuja Secuencial
+5. Burbuja Paralela (Par-Impar)
+6. Quick Sort Secuencial
+7. Quick Sort Paralelo (Tasks)
+8. Mostrar Speedups / Comparativa
+9. Salir del programa
+Seleccione una opcion: 7
+
+-> Quick Sort Paralelo finalizado en 0.214000 s.
+
+=== MENU DE ORDENAMIENTO OMP ===
+1. Llenar arreglo peque (100 elementos - Imprime consola)
+2. Llenar arreglo intermedio (50,000 elementos - IDEAL PARA BURBUJA)
+3. Llenar arreglo masivo (10,000,000 elementos - SOLO QUICK SORT)
+4. Burbuja Secuencial
+5. Burbuja Paralela (Par-Impar)
+6. Quick Sort Secuencial
+7. Quick Sort Paralelo (Tasks)
+8. Mostrar Speedups / Comparativa
+9. Salir del programa
+Seleccione una opcion: 8
+
+=== COMPARATIVA DE RENDIMIENTO ===
+No hay datos de Burbuja para comparar.
+Speedup Quick Sort (Arr: 10000000): 4.985982x
+
+=== MENU DE ORDENAMIENTO OMP ===
+1. Llenar arreglo peque (100 elementos - Imprime consola)
+2. Llenar arreglo intermedio (50,000 elementos - IDEAL PARA BURBUJA)
+3. Llenar arreglo masivo (10,000,000 elementos - SOLO QUICK SORT)
+4. Burbuja Secuencial
+5. Burbuja Paralela (Par-Impar)
+6. Quick Sort Secuencial
+7. Quick Sort Paralelo (Tasks)
+8. Mostrar Speedups / Comparativa
+9. Salir del programa
+Seleccione una opcion:
